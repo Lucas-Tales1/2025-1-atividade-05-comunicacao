@@ -1,4 +1,4 @@
-# S.O. 2025.1 - Atividade 04 - Prática de [comunicação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf)
+# S.O. 2025.1 - Atividade 05 - Prática de [comunicação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf)
 
 ## Informações gerais
 
